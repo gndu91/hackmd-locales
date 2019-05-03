@@ -8,23 +8,23 @@
 		"or": "OU",
 		"cancel": "Annuler",
 		"ok": "OK",
-		"got-it": "Got it",
+		"got-it": "Compris",
 		"period": "."
 	},
 	"help": {
 		"title": "Aide",
 		"contact": {
 			"title": "Contacts",
-			"messenger": "Talk to us",
+			"messenger": "Nous contacter",
 			"github": "Signaler un problème",
 			"email": "Envoyez-nous un mail",
-			"donate": "Buy us coffee"
+			"donate": "Nous soutenir"
 		},
 		"documents": "Documents",
 		"features": "Fonctionnalités",
 		"yaml-meta": "Métadonnées YAML",
 		"slide": "Exemple de présentation",
-		"book": "Book Example",
+		"book": "Exemple de livre",
 		"cheatsheet": "Pense-bête",
 		"example": "Exemple",
 		"syntax": {
@@ -46,27 +46,27 @@
 		}
 	},
 	"signup": {
-		"signup": "Sign up",
-		"new": "New to HackMD? ",
+		"signup": "D'inscrire",
+		"new": "Nouveau sur HackMD? ",
 		"eeSite": {
 			"terms": {
-				"1": "By clicking below, you agree to our ",
-				"2": "terms of service."
+				"1": "En cliquant ci-dessous, vous acceptez nos ",
+				"2": "conditions générales d'utilisation."
 			}
 		}
 	},
 	"signin": {
-		"signin": "Sign in",
+		"signin": "Se connecter",
 		"signin-ldap" : "Sign in to {{name}} (LDAP)",
 		"signin-via-email": "Sign in via Email",
 		"choose": "Choisir la méthode",
 		"via": "Se connecter depuis {{text}}",
-		"email-or-username": "Email or Username",
-		"email-or-username-placeholder": "Your email or Username",
+		"email-or-username": "Email ou nom d'utilisateur",
+		"email-or-username-placeholder": "Votre email ou nom d'utilisateur",
 		"email": "Email",
-		"email-placeholder": "Your email",
-		"password": "Password",
-		"password-placeholder": "Your password"
+		"email-placeholder": "Votre email",
+		"password": "Mot de passe",
+		"password-placeholder": "Votre mot de passe"
 	},
 	"refresh": {
 		"title": "Cette page doit être rechargée",
@@ -83,13 +83,13 @@
 			"title": "Votre statut utilisateur a changé.",
 			"content": "Recharger pour avoir le nouveau statut utilisateur."
 		},
-		"donate": "Buy us coffee",
+		"donate": "Soutenez nous",
 		"refresh": "Recharger"
 	},
 	"infobar": {
-		"owned": "owned this note",
-		"created": "created",
-		"changed": "changed",
+		"owned": "possède cette note",
+		"created": "créée",
+		"changed": "modifiée",
 		"notification" : {
 			"watch": "Watch - Be notified of any changes",
 			"never": "Never - Never be notified"
